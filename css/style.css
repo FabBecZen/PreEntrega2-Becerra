@@ -1,0 +1,20 @@
+
+.banner_home {
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/images/pexels-fauxels-3183170.jpg);
+}
+
+.last_section {
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/images/pexels-fauxels-3183170.jpg);
+}
+
+.navbar {
+    background-color: rgb(19, 19, 19) !important;
+}
+
+.foot1 {
+    background-color: rgb(19, 19, 19) !important;
+}
